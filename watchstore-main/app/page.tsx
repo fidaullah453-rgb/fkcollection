@@ -72,7 +72,7 @@ export default function Home(){
         <img src="/banner.jpeg" className="w-full h-full object-cover" alt="banner"/>
         <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/30 to-black/60"></div>
         <div className="absolute inset-0 flex flex-col items-center justify-center text-center">
-          <p className="text-amber-300 text-xs tracking-[0.35em] font-semibold">PREMIUM WATCHES PAKISTAN</p><h1 
+          <p className="text-amber-300 text-xs tracking-[0.35em] font-semibold">PREMIUM WATCHES PAKISTAN</p><h1></h1>
           <a href="#products" className="mt-7 bg-white text-black hover:bg-amber-300 px-9 py-3.5 rounded-full font-semibold transition">Shop Now</a>
         </div>
       </div>
