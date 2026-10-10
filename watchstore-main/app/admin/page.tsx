@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-
+ 
 export default function Admin() {
   const [login, setLogin] = useState(false);
   const [pw, setPw] = useState("");
